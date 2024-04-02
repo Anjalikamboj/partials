@@ -42,7 +42,7 @@ app.get('/help',(req,res) => {
 })
 
 app.listen(PORT, () => {
-    console.log('server is up on port 3000.')
+    console.log('server is up on port 3030.')
 })
 
 app.get('/ExpressApp',(req,res) => {
